@@ -26,3 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# rin" 
 "# kobayashi" 
 "# kobayashi" 
+"# kobayashi" 
